@@ -1,4 +1,4 @@
-![image](https://github.com/gaur-samal/bulk_cli_exec_cisco_devices/assets/163740797/cb3c5419-0038-4237-ad27-b9ed2b470f85)Bulk CLI execution script for Cisco Devices:
+Bulk CLI execution script for Cisco Devices:
 
 This script could be used to add multiple CLI commands to multiple Cisco IOSXE devices. It would need a CSV file having device IP address. 
 It could modify the interface level configuration or global level configuration. 
